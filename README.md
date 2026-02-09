@@ -26,3 +26,7 @@ DB 암호화 원할 시 rds.tf에 아래 추가
 ```hcl
 storage_encrypted = true
 ```
+
+### Architecture
+
+![img](https://raw.githubusercontent.com/Komponent1/server/refs/heads/master/etc/Blank%20diagram.png)
